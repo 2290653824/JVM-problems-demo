@@ -1,0 +1,2 @@
+- 死锁接口: /dealLock
+- cpu接口: /cpuTest
